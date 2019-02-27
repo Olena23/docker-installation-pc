@@ -53,6 +53,7 @@ Navigate to the folder where you installed Docker and double click on the *Docke
 ![](11.png)
 
 Soon you will see a pop-up window. Enter your credentials.
+
 ![](13.jpg)
 
 ### Pulling the container image
