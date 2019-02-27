@@ -9,7 +9,7 @@ Type in the terminal:
 ```
 docker -v
 ```
-If you do not see the version as an output, you need to install Docker. Most modern computes can run Docker, If you have any doubts, please check the [official documentation](https://docs.docker.com/).
+If you do not see the version as an output, you need to install Docker. Most modern computes can run Docker, if you have any doubts, please check the [official documentation](https://docs.docker.com/).
 
 ### Downloading and installing Docker
 
