@@ -3,7 +3,9 @@
 Docker is a computer program that performs operating-system-level virtualization, also known as "containerization". Docker allows you to install software quickly and without worrying about dependencies.
 To use Docker images of software, you need to have Docker installed on your machine.
 
-To check if you have Docker type in the terminal:
+To check if you have Docker, run the terminal: click the "Start >> Program Files >> Accessories >> Command Prompt" to open a Command Prompt session using just your mouse. Click the "Start" button and type "cmd." Right-click "Cmd," select "Run as Administrator" and click "Yes" to open Command Prompt with elevated privileges.
+
+Type in the terminal:
 ```
 docker -v
 ```
